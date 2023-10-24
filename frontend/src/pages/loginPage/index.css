@@ -1,0 +1,27 @@
+.logo {
+  margin-top: 1.5rem;
+  width: 100%;
+  margin-left: 5rem;
+}
+
+.main {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.LogoIconStyleBox {
+  margin-top: 1.5rem;
+  width: 100%;
+  margin-left: 5rem;
+}
+
+.error-alert {
+  position: fixed;
+  top: 20%;
+  left: 90%;
+  transform: translate(-60%, -60%);
+  z-index: 9999;
+  width: 30vw;
+}
